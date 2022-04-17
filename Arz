@@ -2,12 +2,12 @@
     "ok": true,
     "Result": [
         {
-            "name": "bitcoin",
-            "price": "40,358.14",
-            "Maximum price per day": "40,633.68",
-            "Lowest price per day": "40,192.43",
-            "Yesterday price": "40,236.70",
-            "last update": "18:59:00"
+            "1": "bitcoin",
+            "1": "40,358.14",
+            "1": "40,633.68",
+            "1": "40,192.43",
+            "1": "40,236.70",
+            "1": "18:59:00"
         },
         {
             "name": "ethereum",
