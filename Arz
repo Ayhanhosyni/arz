@@ -1,0 +1,61 @@
+{
+    "ok": true,
+    "Result": [
+        {
+            "name": "bitcoin",
+            "price": "40,358.14",
+            "Maximum price per day": "40,633.68",
+            "Lowest price per day": "40,192.43",
+            "Yesterday price": "40,236.70",
+            "last update": "18:59:00"
+        },
+        {
+            "name": "ethereum",
+            "price": "3,062.07",
+            "Maximum price per day": "3,074.75",
+            "Lowest price per day": "3,024.42",
+            "Yesterday price": "3,027.40",
+            "last update": "19:00:57"
+        },
+        {
+            "name": "litecoin",
+            "price": "113.30",
+            "Maximum price per day": "114.97",
+            "Lowest price per day": "110.54",
+            "Yesterday price": "111.13",
+            "last update": "18:59:01"
+        },
+        {
+            "name": "tron",
+            "price": "0.062533",
+            "Maximum price per day": "0.062850",
+            "Lowest price per day": "0.061196",
+            "Yesterday price": "0.061303",
+            "last update": "18:59:01"
+        },
+        {
+            "name": "tether",
+            "price": "1",
+            "Maximum price per day": "1",
+            "Lowest price per day": "1",
+            "Yesterday price": "1",
+            "last update": "11:23:50"
+        },
+        {
+            "name": "dogecoin",
+            "price": "0.143773",
+            "Maximum price per day": "0.144680",
+            "Lowest price per day": "0.142300",
+            "Yesterday price": "0.142491",
+            "last update": "19:00:58"
+        },
+        {
+            "name": "bitcoincash",
+            "price": "345.49",
+            "Maximum price per day": "348.13",
+            "Lowest price per day": "340.47",
+            "Yesterday price": "342.40",
+            "last update": "19:02:44"
+        }
+    ]
+}
