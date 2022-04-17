@@ -1,61 +1,33 @@
 {
-    "ok": true,
-    "Result": [
+    "OK": درست است،
+    "نتیجه": [
         {
-            "1": "bitcoin",
-            "1": "40,358.14",
-            "1": "40,633.68",
-            "1": "40,192.43",
-            "1": "40,236.70",
-            "1": "18:59:00"
-        },
+            "نام": "بیت کوین"،
+            "قیمت": "40,384.42"،
+        }،
         {
-            "name": "ethereum",
-            "price": "3,062.07",
-            "Maximum price per day": "3,074.75",
-            "Lowest price per day": "3,024.42",
-            "Yesterday price": "3,027.40",
-            "last update": "19:00:57"
-        },
+            "نام": "اتریوم"،
+            "قیمت": "3,065.64"،
+        }،
         {
-            "name": "litecoin",
-            "price": "113.30",
-            "Maximum price per day": "114.97",
-            "Lowest price per day": "110.54",
-            "Yesterday price": "111.13",
-            "last update": "18:59:01"
-        },
+            "نام": "لایت کوین"،
+            "قیمت": "113.35"،
+        }،
         {
-            "name": "tron",
-            "price": "0.062533",
-            "Maximum price per day": "0.062850",
-            "Lowest price per day": "0.061196",
-            "Yesterday price": "0.061303",
-            "last update": "18:59:01"
-        },
+            "نام": "ترون"،
+            "قیمت": "0.062486"،
+        }،
         {
             "name": "tether",
-            "price": "1",
-            "Maximum price per day": "1",
-            "Lowest price per day": "1",
-            "Yesterday price": "1",
-            "last update": "11:23:50"
-        },
+            "قیمت": "1"، 
+        }،
         {
-            "name": "dogecoin",
-            "price": "0.143773",
-            "Maximum price per day": "0.144680",
-            "Lowest price per day": "0.142300",
-            "Yesterday price": "0.142491",
-            "last update": "19:00:58"
-        },
+            "نام": "دوج کوین"،
+            "قیمت": "0.144066"،
+        }،
         {
-            "name": "bitcoincash",
-            "price": "345.49",
-            "Maximum price per day": "348.13",
-            "Lowest price per day": "340.47",
-            "Yesterday price": "342.40",
-            "last update": "19:02:44"
+            "name": "bitcoincash"
+            "قیمت": "344.98"،
         }
     ]
 }
